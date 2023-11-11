@@ -1,0 +1,1 @@
+UPDATE statuscart set lunas = true WHERE id = 9;

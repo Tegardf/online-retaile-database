@@ -1,0 +1,1 @@
+UPDATE barang set nama_barang='LED bohlam',stock = 7 WHERE id = 10;

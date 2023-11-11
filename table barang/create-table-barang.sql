@@ -3,7 +3,7 @@ create table barang (
 	kategori_id BIGINT NOT NULL,
 	nama_barang VARCHAR(50) NOT NULL,
 	stock BIGINT,
-	harga BIGINT NOT NULL,
+	harga DOUBLE NOT NULL,
 	FOREIGN KEY (kategori_id) REFERENCES kategori(id)
 );
 

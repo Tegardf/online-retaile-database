@@ -1,0 +1,1 @@
+delete DATABASE online_retaildb;

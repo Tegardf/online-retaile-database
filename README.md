@@ -1,8 +1,11 @@
 createing online reatail databae using MYSQL
-table:
+table:<br>
 -user <br>
--carts
--cart status
--payment method
--product
--product category
+-carts <br>
+-cart status <br>
+-payment method <br>
+-product <br>
+-product category <br>
+
+ERD design:
+<img src='./ERD desain.png'>

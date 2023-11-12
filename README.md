@@ -1,6 +1,6 @@
 createing online reatail databae using MYSQL
 table:
--user
+-user <br>
 -carts
 -cart status
 -payment method
